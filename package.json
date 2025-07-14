@@ -57,5 +57,10 @@
     "typescript": "~5.8.3",
     "vitest": "^3.2.4",
     "vue-tsc": "^3.0.1"
+  },
+  "packageManager": "pnpm@10.10.0",
+  "engines": {
+    "pnpm": "^10.10.0",
+    "node": "^20.19.3"
   }
 }
